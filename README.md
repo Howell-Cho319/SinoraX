@@ -1,8 +1,7 @@
 # SinoraX
-Local-first composable AI gateway unifying local LLMs &amp; cloud APIs with BYO/BYOK/BYOM, privacy-focused personal model orchestration layer AI is not something you use — it’s something you assemble. Build your fully user-owned hybrid AI stack.
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-# SinoraX
-> AI is not something you use — it’s something you assemble.
+> AI is not something you use — it’s something you assemble. Build your fully user-owned hybrid AI stack.
 
 ## Short Description
 Local-first composable AI gateway unifying local LLMs & cloud APIs with BYO/BYOK/BYOM principles; a privacy-centric personal intelligence orchestration layer.
@@ -42,7 +41,7 @@ SinoraX is designed as an orchestration layer — analogous to microservice infr
 
 ## Project Status
 **Concept / Design Phase Only**
-This repository holds the official project blueprint, naming and core vision for SinoraX. Full development, prototype builds and source code will be incrementally added as development progresses.
+This repository stores the official project concept, naming, core vision and design documentation for SinoraX. Functional source code, prototype builds and executable releases will be added step-by-step during subsequent development cycles.
 
 ## Roadmap Preview
 1. Finalize core modular provider interface standard
@@ -56,7 +55,7 @@ This repository holds the official project blueprint, naming and core vision for
 I shared this vision on LinkedIn to gather feedback from AI engineers, local LLM builders and privacy-focused developers. If you work with hybrid AI stacks, multi-model tooling or edge AI, I welcome your thoughts on pain points and feature priorities.
 
 ## License
-TBD (MIT planned for full open-source release upon prototype completion)
+This project is released under the MIT License. See the [LICENSE](./LICENSE) file for full legal terms.
 
-## Tags
+## Repository Tags
 #LocalFirstAI #ComposableAI #LLMGateway #Ollama #AIOrchestration #DataSovereignty #BYOAI #OpenSourceAI
